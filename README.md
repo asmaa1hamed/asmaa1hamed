@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <h2 align="center">Welcome to Asmaa Hamed </h2><br>
-      I’m software engineer<br>
+      I’m a software engineer<br>
       🔭 I’m currently working on learning new things ...
 <!--
 **asmaa1hamed/asmaa1hamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
