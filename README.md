@@ -1,5 +1,6 @@
 ### Hi there 👋
       I’m software engineer
+      🔭 I’m currently working on learning new things ...
 <!--
 **asmaa1hamed/asmaa1hamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
