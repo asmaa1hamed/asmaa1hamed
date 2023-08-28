@@ -1,8 +1,12 @@
 
 ### Hi there 👋
 <h2 align="center">Welcome to Asmaa Hamed </h2><br>
-      I’m a software engineer<br>
-      🔭 I’m currently working on learning new things ...
+### About me:<br>
+      ⚡I’m a software engineer<br>
+      🔭 I’m currently working on learning new things ...<br>
+### Connect with me:
+<br>
+      <a href="https://www.facebook.com/asmaa.elnehrawy.54" target="blank" title="go to my facebook">Facebook</a>
 <!--
 **asmaa1hamed/asmaa1hamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
